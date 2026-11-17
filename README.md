@@ -1,103 +1,136 @@
-# Asad Masood Kidwai
+\<!--   GitHub Profile README   Username: asadmasoodkidwai -->
 
 \<div align="center">
 
-### Exploring Intelligence, Mathematics & Computation.
+\<img src="[https://capsule-render.vercel.app/api?type=venom&height=220&color=0:07111F,50:123B52,100:00D4FF&text=ASAD%20MASOOD%20KIDWAI&fontColor=FFFFFF&fontSize=38&fontAlignY=45&desc=Computer%20Science%20%7C%20AI%20%7C%20Mathematics&descSize=15&descAlignY=65&animation=fadeIn](https://capsule-render.vercel.app/api?type=venom\&height=220\&color=0:07111F,50:123B52,100:00D4FF\&text=ASAD%20MASOOD%20KIDWAI\&fontColor=FFFFFF\&fontSize=38\&fontAlignY=45\&desc=Computer%20Science%20%7C%20AI%20%7C%20Mathematics\&descSize=15\&descAlignY=65\&animation=fadeIn)" width="100%" />
 
-Computer Science undergraduate at **FAST-NUCES**, interested in understanding how intelligent systems work, how algorithms shape computation, and how mathematical ideas translate into practical solutions.
+### Building, exploring, and understanding intelligent systems.
 
+\
 
 
 \</div>
 
 ---
 
-## `01` — About Me
+### `01 / INTRODUCTION`
 
-- 🎓 BS Computer Science student at FAST-NUCES, Islamabad.
-- 🧠 Interested in Artificial Intelligence, Machine Learning and mathematical foundations of computation.
-- 🔬 Exploring research opportunities in AI, optimization and theoretical computer science.
-- ⚙️ Enjoy building projects that combine algorithms, mathematics and practical applications.
-- 🌱 Currently exploring intelligent agents, quantum computing and optimization techniques.
+I'm a Computer Science undergraduate at FAST-NUCES, interested in the intersection of **artificial intelligence, mathematics, and computation**.
 
-## `02` — Areas of Interest
+I enjoy exploring how algorithms work, experimenting with computational ideas, and building systems that apply theoretical concepts to real-world problems.
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/Artificial%20Intelligence-00D4FF?style=flat-square](https://img.shields.io/badge/Artificial%20Intelligence-00D4FF?style=flat-square)" />   \<img src="[https://img.shields.io/badge/Machine%20Learning-00D4FF?style=flat-square](https://img.shields.io/badge/Machine%20Learning-00D4FF?style=flat-square)" />   \<img src="[https://img.shields.io/badge/AI%20Agents-00D4FF?style=flat-square](https://img.shields.io/badge/AI%20Agents-00D4FF?style=flat-square)" />   \<img src="[https://img.shields.io/badge/Theoretical%20CS-00D4FF?style=flat-square](https://img.shields.io/badge/Theoretical%20CS-00D4FF?style=flat-square)" />   \<img src="[https://img.shields.io/badge/Optimization-00D4FF?style=flat-square](https://img.shields.io/badge/Optimization-00D4FF?style=flat-square)" />   \<img src="[https://img.shields.io/badge/Network%20Science-00D4FF?style=flat-square](https://img.shields.io/badge/Network%20Science-00D4FF?style=flat-square)" />   \<img src="[https://img.shields.io/badge/Quantum%20Computing-00D4FF?style=flat-square](https://img.shields.io/badge/Quantum%20Computing-00D4FF?style=flat-square)" /> \</p>
+Currently interested in:
 
-## `03` — Tech Stack
-
-\<p align="center">
-&#x20; \<img src="[https://skillicons.dev/icons?i=cpp,python,r,git,github](https://skillicons.dev/icons?i=cpp,python,r,git,github)" />
-\</p>
-
-**Currently exploring:** Qiskit · Machine Learning · Optimization · Intelligent Agents
-
-## `04` — Selected Projects
-
-### 🌧️ Baadal — Quantum-Assisted Flood Response
-
-**Qiskit Fall Fest 2026 Hackathon | Collaborative Project**
-
-Initiated the concept of a flood risk assessment and disaster response system for Pakistan. Helped supervise development, suggest improvements and contribute to implementation.
-
-- Quantum Amplitude Estimation for flood risk assessment.
-- QAOA for budget-constrained disaster response planning.
-- Real weather, river discharge, elevation and land-cover data.
-
-`Python` `Qiskit` `Qiskit Aer` `Streamlit`
-
-[View Project](https://github.com/1WhiteDeath1/baadal)
-
-### 🥊 Model Kombat — Autonomous Fighting Agent
-
-**AI Competition | Collaborative Project**
-
-Contributed to the development of an autonomous AI fighting agent for Street Fighter II.
-
-- Worked with an emulator-based game environment.
-- Contributed to automated game control and decision-making.
-- Explored autonomous agent behaviour in a real-time game setting.
-
-`Python` `AI` `Game Automation`
-
-### 📊 Item-Level Price Co-Movement Network
-
-**Independent Academic Project**
-
-Explored relationships between item prices using monthly CPI data collected across multiple Pakistani cities over three years.
-
-- Examined price co-movement between individual items.
-- Applied network analysis to identify relationships.
-- Used R for data processing and analysis.
-
-`R` `Data Analysis` `Network Science`
-
-### ⚡ Optimization of Cache Levels
-
-**Independent Academic Project**
-
-Explored the relationship between memory hierarchy and computational efficiency.
-
-- Studied cache-level optimization.
-- Applied calculus concepts to computational performance.
-- Developed a report, website and supporting implementation.
-
-`R` `Calculus` `Optimization`
-
-## `05` — GitHub Statistics
-
-\<p align="center">   \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=asadmasoodkidwai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=asadmasoodkidwai\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)" />   \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=asadmasoodkidwai&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=asadmasoodkidwai\&layout=compact\&theme=tokyonight\&hide_border=true)" /> \</p>
-
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=asadmasoodkidwai&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=asadmasoodkidwai\&theme=tokyonight\&hide_border=true)" /> \</p>
-
-## `06` — Beyond the Code
-
-I enjoy exploring problems that sit at the intersection of mathematics, computation and intelligent systems. I'm particularly interested in understanding *why* algorithms work, not just how to implement them.
-
-Always open to interesting research ideas, collaborations and challenging problems.
+- Artificial Intelligence & Machine Learning
+- Intelligent Agents & Reinforcement Learning
+- Algorithms & Theoretical Computer Science
+- Mathematical Optimization
+- Network Science & Data Analysis
+- Quantum Computing
 
 ---
 
-\<p align="center">   \<i>"The goal isn't just to make things work, but to understand why they work."\</i> \</p>
+### `02 / TOOLKIT`
 
-\<p align="center">   \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:141E30&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:00D4FF,100:141E30\&height=100\&section=footer)" /> \</p>
+\<div align="center">
+
+**LANGUAGES & TOOLS**
+
+\<img src="[https://skillicons.dev/icons?i=cpp,python,r,git,github&theme=dark](https://skillicons.dev/icons?i=cpp,python,r,git,github\&theme=dark)" />
+
+**AREAS I'M EXPLORING**
+
+\<img src="[https://img.shields.io/badge/AI%20%26%20ML-123B52?style=for-the-badge](https://img.shields.io/badge/AI%20%26%20ML-123B52?style=for-the-badge)" /> \<img src="[https://img.shields.io/badge/Algorithms-123B52?style=for-the-badge](https://img.shields.io/badge/Algorithms-123B52?style=for-the-badge)" /> \<img src="[https://img.shields.io/badge/Optimization-123B52?style=for-the-badge](https://img.shields.io/badge/Optimization-123B52?style=for-the-badge)" /> \<img src="[https://img.shields.io/badge/Quantum%20Computing-123B52?style=for-the-badge](https://img.shields.io/badge/Quantum%20Computing-123B52?style=for-the-badge)" />
+
+\</div>
+
+---
+
+### `03 / SELECTED WORK`
+
+\<table>
+\<tr>
+\<td width="50%" valign="top">
+
+**🌧️ BAADAL**
+
+*Quantum-assisted flood response planning*
+
+Qiskit Fall Fest 2026 Hackathon.
+
+Initiated the project concept and helped guide development, suggest improvements, and contribute to implementation.
+
+`Python` `Qiskit` `QAOA` `QAE`
+
+[↗ Repository](https://github.com/1WhiteDeath1/baadal)
+
+\</td>
+\<td width="50%" valign="top">
+
+**🥊 MODEL KOMBAT**
+
+*Autonomous AI fighting agent*
+
+AI competition project involving an autonomous agent operating in a Street Fighter II emulator environment.
+
+Contributed to agent development and automated decision-making.
+
+`Python` `AI` `Game Automation`
+
+\</td> \</tr> \<tr> \<td width="50%" valign="top">
+
+**📊 PRICE CO-MOVEMENT NETWORK**
+
+*Network analysis using CPI data*
+
+Explored item-level price relationships across multiple Pakistani cities using three years of monthly CPI data.
+
+`R` `Data Analysis` `Network Science`
+
+\</td>
+\<td width="50%" valign="top">
+
+**⚡ CACHE LEVEL OPTIMIZATION**
+
+*Computational efficiency and memory hierarchy*
+
+Explored the relationship between memory hierarchy and computational performance using calculus-based analysis.
+
+`R` `Calculus` `Optimization`
+
+\</td>
+\</tr>
+\</table>
+
+---
+
+### `04 / GITHUB ACTIVITY`
+
+\<div align="center">
+
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=asadmasoodkidwai&show_icons=true&theme=transparent&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=9CA3AF](https://github-readme-stats.vercel.app/api?username=asadmasoodkidwai\&show_icons=true\&theme=transparent\&hide_border=true\&title_color=00D4FF\&icon_color=00D4FF\&text_color=9CA3AF)" /> \<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=asadmasoodkidwai&layout=compact&theme=transparent&hide_border=true&title_color=00D4FF&text_color=9CA3AF](https://github-readme-stats.vercel.app/api/top-langs/?username=asadmasoodkidwai\&layout=compact\&theme=transparent\&hide_border=true\&title_color=00D4FF\&text_color=9CA3AF)" />
+
+\<br/>
+
+\<img width="85%" src="[https://streak-stats.demolab.com?user=asadmasoodkidwai&theme=transparent&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF](https://streak-stats.demolab.com?user=asadmasoodkidwai\&theme=transparent\&hide_border=true\&ring=00D4FF\&fire=00D4FF\&currStreakLabel=00D4FF)" />
+
+\</div>
+
+---
+
+### `05 / CURRENTLY EXPLORING`
+
+- Understanding the mathematical foundations of machine learning.
+- Exploring intelligent agents and decision-making systems.
+- Learning more about optimization and quantum algorithms.
+- Looking for opportunities to participate in undergraduate research.
+
+---
+
+\<div align="center">
+
+*Curiosity drives the questions. Mathematics and computation help explore the answers.*
+
+\<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:07111F,100:123B52&height=4&section=footer](https://capsule-render.vercel.app/api?type=rect\&color=0:07111F,100:123B52\&height=4\&section=footer)" width="100%" />
+
+\</div>
