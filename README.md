@@ -1,12 +1,6 @@
 <!-- ========================================================= -->
 <!-- THE OPENING -->
 <!-- ========================================================= -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/asadmasoodkidwai/asadmasoodkidwai/main/math_chaos.gif"
-       alt="A mathematical system in controlled chaos"
-       width="100%">
-</p>
 <p align="center"><img src="./math_chaos.gif" alt="Controlled chaos with a pulse" width="100%"></p>
 <h1 align="center">ASAD MASOOD KIDWAI</h1>
 
