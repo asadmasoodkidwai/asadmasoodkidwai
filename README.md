@@ -1,101 +1,73 @@
+<!-- ========================================================= -->
+<!-- THE OPENING -->
+<!-- ========================================================= -->
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/asadmasoodkidwai/asadmasoodkidwai/main/math_chaos.gif"
+       alt="A mathematical system in controlled chaos"
+       width="100%">
+</p>
+<p align="center"><img src="./math_chaos.gif" alt="Controlled chaos with a pulse" width="100%"></p>
+<h1 align="center">ASAD MASOOD KIDWAI</h1>
 
-<div align="center">
+<p align="center">
+  <code>COMPUTER SCIENCE STUDENT</code> &nbsp;·&nbsp;
+  <code>QUESTION COLLECTOR</code> &nbsp;·&nbsp;
+  <code>PROFESSIONAL OVERTHINKER</code>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:07111F,50:123B52,100:00D4FF&text=ASAD%20MASOOD%20KIDWAI&fontColor=FFFFFF&fontSize=38&fontAlignY=45&desc=Computer%20Science%20%7C%20AI%20%7C%20Mathematics&descSize=15&descAlignY=65&animation=fadeIn" width="100%" />
+<p align="center">
+  <sub>ISLAMABAD, PK &nbsp; / &nbsp; FAST-NUCES &nbsp; / &nbsp; CURRENTLY FIGURING THINGS OUT</sub>
+</p>
 
-### Building, exploring, and understanding intelligent systems.
+<p align="center"><i>Somewhere between mathematical elegance and questionable experiments.</i></p>
 
-</div>
+<br>
 
----
+<!-- ========================================================= -->
+<!-- 01 / THE SIGNAL -->
+<!-- ========================================================= -->
 
-### `01 / INTRODUCTION`
-
-I'm a Computer Science undergraduate at FAST-NUCES, interested in the intersection of **artificial intelligence, mathematics, and computation**.
-
-I enjoy exploring how algorithms work, experimenting with computational ideas, and building systems that apply theoretical concepts to real-world problems.
-
-**Currently interested in:**
-- Artificial Intelligence & Machine Learning
-- Intelligent Agents & Reinforcement Learning
-- Algorithms & Theoretical Computer Science
-- Mathematical Optimization
-- Network Science & Data Analysis
-- Quantum Computing
-
----
-
-### `02 / TOOLKIT`
-
-<div align="center">
-
-**LANGUAGES & TOOLS**
-
-<img src="https://skillicons.dev/icons?i=cpp,python,r,git,github&theme=dark" />
-
-**AREAS I'M EXPLORING**
-
-<img src="https://img.shields.io/badge/AI%20%26%20ML-123B52?style=for-the-badge" /> <img src="https://img.shields.io/badge/Algorithms-123B52?style=for-the-badge" /> <img src="https://img.shields.io/badge/Optimization-123B52?style=for-the-badge" /> <img src="https://img.shields.io/badge/Quantum%20Computing-123B52?style=for-the-badge" />
-
-</div>
-
----
-
-### `03 / SELECTED WORK`
+<h2>01 &nbsp; / &nbsp; THE SIGNAL</h2>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-**🌧️ BAADAL**
+### HELLO, INTERNET.
 
-*Quantum-assisted flood response planning*
+I'm a Computer Science student interested in understanding how things work beneath the surface.
 
-Qiskit Fall Fest 2026 Hackathon.
+I like mathematics, intelligent systems, algorithms, and the occasional idea that turns into a much bigger project than initially intended.
 
-Initiated the project concept and helped guide development, suggest improvements, and contribute to implementation.
+I'm particularly drawn to the intersection of **mathematical foundations and computation**: understanding not just how to build something, but why it works, where it fails, and what makes it interesting in the first place.
 
-`Python` `Qiskit` `QAOA` `QAE`
+Currently exploring AI and machine learning, optimization, theoretical computer science, and whatever rabbit hole catches my attention next.
 
-[↗ Repository](https://github.com/1WhiteDeath1/baadal)
-
-</td>
-<td width="50%" valign="top">
-
-**🥊 MODEL KOMBAT**
-
-*Autonomous AI fighting agent*
-
-AI competition project involving an autonomous agent operating in a Street Fighter II emulator environment.
-
-Contributed to agent development and automated decision-making.
-
-`Python` `AI` `Game Automation`
+<blockquote>
+<i>“Somewhere between mathematical elegance and questionable experiments.”</i>
+</blockquote>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-**📊 PRICE CO-MOVEMENT NETWORK**
+### SYSTEM STATUS
 
-*Network analysis using CPI data*
+| PROCESS | STATUS |
+|:--|:--|
+| THINKING | ACTIVE |
+| BUILDING | ACTIVE |
+| QUESTIONING | CONSTANT |
+| OVERTHINKING | UNBOUNDED |
 
-Explored item-level price relationships across multiple Pakistani cities using three years of monthly CPI data.
+<br>
 
-`R` `Data Analysis` `Network Science`
+**OPEN TABS**
 
-</td>
-<td width="50%" valign="top">
-
-**⚡ CACHE LEVEL OPTIMIZATION**
-
-*Computational efficiency and memory hierarchy*
-
-Explored the relationship between memory hierarchy and computational performance using calculus-based analysis.
-
-`R` `Calculus` `Optimization`
+- Brain tabs: too many
+- Explanations: occasionally held together by vibes
+- Confidence: sometimes exceeds available evidence
+- Bugs: considered unexpected research opportunities
 
 </td>
 </tr>
@@ -103,35 +75,244 @@ Explored the relationship between memory hierarchy and computational performance
 
 ---
 
-### `04 / GITHUB ACTIVITY`
+<!-- ========================================================= -->
+<!-- 02 / INTERESTS -->
+<!-- ========================================================= -->
 
-<div align="center">
+<h2>02 &nbsp; / &nbsp; THINGS THAT KEEP ME UP</h2>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=asadmasoodkidwai&show_icons=true&theme=transparent&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=9CA3AF" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadmasoodkidwai&layout=compact&theme=transparent&hide_border=true&title_color=00D4FF&text_color=9CA3AF" />
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<br/>
+### 01 — INTELLIGENCE
 
-<img width="85%" src="https://streak-stats.demolab.com?user=asadmasoodkidwai&theme=transparent&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
+- Artificial Intelligence
+- Machine Learning
+- Reinforcement Learning
+- AI Agents
+- Foundations of ML
 
-</div>
+</td>
+<td width="33%" valign="top">
+
+### 02 — MATHEMATICS
+
+- Optimization
+- Probability & Statistics
+- Mathematical Foundations
+- Learning Theory
+- Applied Mathematics
+
+</td>
+<td width="33%" valign="top">
+
+### 03 — COMPUTATION
+
+- Algorithms & Theoretical CS
+- Graph Theory
+- Network Science
+- Data Management
+- Information Retrieval
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <sub>THE COMMON THREAD: UNDERSTANDING COMPLEX SYSTEMS.</sub>
+</p>
 
 ---
 
-### `05 / CURRENTLY EXPLORING`
+<!-- ========================================================= -->
+<!-- 03 / WORKBENCH -->
+<!-- ========================================================= -->
 
-- Understanding the mathematical foundations of machine learning.
-- Exploring intelligent agents and decision-making systems.
-- Learning more about optimization and quantum algorithms.
-- Looking for opportunities to participate in undergraduate research.
+<h2>03 &nbsp; / &nbsp; THINGS I'VE BEEN BUILDING</h2>
+
+<p>
+  <sub>THREE PROJECTS. THREE DIFFERENT PROBLEMS. A REASONABLE AMOUNT OF QUESTIONABLE DECISION-MAKING.</sub>
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01. COIN
+
+`PYTHON` `AI MODELS` `FINBERT` `KRONOS` `PAYPAL API`
+
+**An AI board of directors for paper trading.**
+
+Four specialist analysts examine the market from different perspectives: technical indicators, price forecasts, financial sentiment, and company fundamentals.
+
+Their findings go to a reasoning-model Chair, which decides whether to buy, sell, or ignore an opportunity.
+
+The system also includes a rule-based Risk Firewall, an adaptive student model, automated trading, and a virtual vault with PayPal sandbox deposits and payouts.
+
+**The interesting part:** building a system where multiple specialised models reason together, while independent rules keep their decisions in check.
+
+<p><a href="https://github.com/asadmasoodkidwai/coin">↗ EXPLORE THE REPOSITORY</a></p>
+
+<sub>NOTE: PAPER TRADING ONLY. SANDBOX FUNDS AND UNOFFICIAL MARKET DATA.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 02. BAADAL
+
+`PYTHON` `QISKIT` `QAOA` `QUANTUM AMPLITUDE ESTIMATION`
+
+**Quantum-assisted disaster response planning for Pakistan.**
+
+What if weather forecasts, flood modelling, and quantum algorithms could help inform decisions during a flood?
+
+Built for **Qiskit Fall Fest 2026**, Baadal explores a pipeline that monitors weather across Pakistani cities, estimates flood risk, models potential impact, and selects protective measures under a limited budget.
+
+It brings together quantum amplitude estimation, QAOA, geospatial data, and classical comparisons.
+
+I initiated the concept, helped shape its direction, suggested improvements, and contributed to implementation.
+
+**The interesting part:** exploring where quantum optimisation and estimation might fit into a real-world decision-making problem.
+
+<p><a href="https://github.com/1WhiteDeath1/baadal">↗ EXPLORE THE REPOSITORY</a></p>
+
+<sub>COLLABORATIVE PROJECT · QISKIT FALL FEST 2026</sub>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 03. MODEL KOMBAT
+
+`PYTHON` `AI` `GAME AUTOMATION`
+
+**An autonomous fighting agent for Street Fighter II.**
+
+The challenge was to build an agent that could interpret game states, make decisions in real time, and fight inside an emulator without a human controlling every move.
+
+I contributed to the development of the autonomous agent as part of an AI competition.
+
+**The interesting part:** turning a game environment into a problem of perception, decision-making, and automated control.
+
+<sub>COMPLETED PROJECT · CONTRIBUTOR</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
+<!-- ========================================================= -->
+<!-- 04 / TOOLBOX -->
+<!-- ========================================================= -->
 
-*Curiosity drives the questions. Mathematics and computation help explore the answers.*
+<h2>04 &nbsp; / &nbsp; THE TOOLBOX</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07111F,100:123B52&height=4&section=footer" width="100%" />
+<p><i>Tools are tools. Knowing what to do with them is the fun part.</i></p>
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,r,git,github&theme=dark" alt="C++, Python, R, Git and GitHub">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/anthropic/FFFFFF" height="48" alt="Anthropic">
+</p>
 
+<p align="center">
+  <sub>CLAUDE — THE GOAT.</sub>
+</p>
+
+<p align="center">
+  <sub>ALWAYS LEARNING SOMETHING NEW. SOMETIMES EVEN THE THING I SET OUT TO LEARN.</sub>
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!-- 05 / ACTIVE PROCESSES -->
+<!-- ========================================================= -->
+
+<h2>05 &nbsp; / &nbsp; CURRENTLY DOWN THE RABBIT HOLE</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**RESEARCH INTERESTS**
+
+- Foundations of machine learning
+- Reinforcement learning and AI agents
+- Optimization and learning theory
+- Graph ML and network science
+- Theoretical computer science
+
+</td>
+<td width="50%" valign="top">
+
+**QUESTIONS I'M EXPLORING**
+
+- What makes an intelligent system actually intelligent?
+- How much can mathematical structure tell us about learning?
+- Where do optimization methods succeed or fail?
+- How do complex behaviours emerge from simpler systems?
+- What happens when theory meets implementation?
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <i>Not all questions have answers. Some just lead to better questions.</i>
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!-- 06 / OPERATING PRINCIPLES -->
+<!-- ========================================================= -->
+
+<h2>06 &nbsp; / &nbsp; OPERATING PRINCIPLES</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**01.** Understand the problem before solving it.
+
+**02.** Being wrong is useful. Staying wrong isn't.
+
+</td>
+<td width="50%" valign="top">
+
+**03.** Elegant solutions are worth pursuing.
+
+**04.** Curiosity should occasionally be allowed to run unsupervised.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ========================================================= -->
+<!-- END / STILL RUNNING -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <sub>────────────────────────────────────────────────────────</sub>
+</p>
+
+<h2 align="center">∀ QUESTIONS, ∃ MORE QUESTIONS.</h2>
+
+<p align="center">
+  <i>Still learning. Still building. Still asking why.</i>
+</p>
+
+<p align="center">
+  <code>END OF TRANSMISSION. PROBABLY.</code>
+</p>
+
+<p align="center">
+  <sub>LAST KNOWN LOCATION: SOMEWHERE DOWN A RESEARCH RABBIT HOLE</sub>
+</p>
