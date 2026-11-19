@@ -1,0 +1,28 @@
+{
+  "login": "asadmasoodkidwai",
+  "since": "2025-08-16",
+  "stars": 0,
+  "commits_last_year": 11,
+  "prs": 0,
+  "issues": 0,
+  "contributed_to": 0,
+  "languages": [
+    ["Python", 50.92],
+    ["C++", 24.71],
+    ["HTML", 21.95],
+    ["PowerShell", 2.11],
+    ["Batchfile", 0.16],
+    ["Shell", 0.15]
+  ],
+  "total_contributions": 12,
+  "current_streak": {
+    "days": 2,
+    "start": "2026-11-17",
+    "end": "2026-11-18"
+  },
+  "longest_streak": {
+    "days": 2,
+    "start": "2026-11-17",
+    "end": "2026-11-18"
+  }
+}
